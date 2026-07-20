@@ -341,6 +341,8 @@ Example:
 
 ---
 
+![Sensitive Data Exposure Evidence](Sensitive_Data_Exposure.png)
+
 ## Recommendation
 
 Do not return database entities directly.
